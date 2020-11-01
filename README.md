@@ -6,12 +6,12 @@ A program that finds the change for a transaction using the smallest amount of c
 The purpose of creating this program is to gain familiarity with the following\
 programming elements within Java:\
 
-- Variables 
-- Expressions 
-- Conditionals 
-- Loops 
-- Functions 
-- Classes 
+- Variables (DONE)
+- Expressions (DONE)
+- Conditionals (DONE)
+- Loops (NOT DONE)
+- Functions (NOT DONE)
+- Classes (NOT DONE (unless you count the CalculateChange class))
 
 Stretch goal for this project: 
 
@@ -43,6 +43,7 @@ Java Extension Pack by Microsoft, version 0.10.0, from 8/13/2020\
 
 
 Build and Execution Instructions:\
+See second screenshot for terminal commands.
 
 
 Screenshots:\
