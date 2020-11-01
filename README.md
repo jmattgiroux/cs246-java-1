@@ -46,9 +46,11 @@ Build and Execution Instructions:\
 
 
 Screenshots:\
+![First screenshot of Calculate Change program](https://github.com/jmattgiroux/module-java-1/blob/main/Screenshot%20from%202020-10-31%2023-36-40.png)
 
-Here is a screenshot of all of that:
-![screenshot of Calculate Change program]()
+![Second screenshot of Calculate Change program](https://github.com/jmattgiroux/module-java-1/blob/main/Screenshot%20from%202020-10-31%2023-40-08.png)
+
+
 
 List of Useful Websites:\
 
