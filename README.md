@@ -47,6 +47,9 @@ Build and Execution Instructions:\
 
 Screenshots:\
 
+Here is a screenshot of all of that:
+![screenshot of Calculate Change program]()
+
 List of Useful Websites:\
 
 - https://en.wikipedia.org/wiki/Java_(programming_language)
