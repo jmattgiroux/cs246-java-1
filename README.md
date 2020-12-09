@@ -4,7 +4,7 @@ Program Description:
 
 A program that finds the change for a transaction using the smallest amount of coins.\
 The purpose of creating this program is to gain familiarity with the following\
-programming elements within Java:\
+programming elements within Java:
 
 - Variables (DONE)
 - Expressions (DONE)
@@ -12,10 +12,6 @@ programming elements within Java:\
 - Loops (NOT DONE)
 - Functions (NOT DONE)
 - Classes (NOT DONE (unless you count the CalculateChange class))
-
-Stretch goal for this project: 
-
-- Use data structure from Java Collection Framework (such as ArrayList, TreeSet, and HashMap)\
 
 
 Development Environment: 
@@ -34,12 +30,13 @@ Electron: 9.2.1\
 Chrome: 83.0.4103.122\
 Node.js: 12.14.1\
 V8: 8.3.110.13-electron.0\
-OS: Linux x64 5.4.0-52-generic\
+OS: Linux x64 5.4.0-52-generic
 
 Visual Studio Code Extensions\
-Java Extension Pack by Microsoft, version 0.10.0, from 8/13/2020\
-    Java Extension Pack is a collection of popular extensions that can help write, test\
-    and debug Java applications in Visual Studio Code. Check out Java in VS Code to get\ started.\
+Java Extension Pack by Microsoft, version 0.10.0, from 8/13/2020
+
+    Java Extension Pack is a collection of popular extensions that can help write, test
+    and debug Java applications in Visual Studio Code. Check out Java in VS Code to get started.
 
 
 Build and Execution Instructions:\
@@ -53,7 +50,7 @@ Screenshots:\
 
 
 
-List of Useful Websites:\
+List of Useful Websites:
 
 - https://en.wikipedia.org/wiki/Java_(programming_language)
 - https://www.w3schools.com/java/default.asp
