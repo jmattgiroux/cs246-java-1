@@ -1,4 +1,4 @@
-# module-java-1
+# cs246-java-1
 
 Program Description: 
 
